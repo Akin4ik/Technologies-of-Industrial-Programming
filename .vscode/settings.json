@@ -1,0 +1,4 @@
+{
+    "code-runner.runInTerminal": true,
+    "C_Cpp.default.compilerPath": "/usr/bin/clang++"
+}
